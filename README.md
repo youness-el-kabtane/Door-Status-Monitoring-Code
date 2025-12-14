@@ -18,7 +18,7 @@
 
 - Power supply
 
-![enter image description here]()
+![enter image description here](https://github.com/youness-el-kabtane/Door-Status-Monitoring---Code/blob/45ceb65dc3e33433829de566beb1a4d2ce544b79/Screenshot.png)
 
 ## Principle of Operation
 
@@ -123,6 +123,7 @@ if (value == "1") sendAlertEmail();
 **Version:** 1.0.0
 
 **Made with 💗**
+
 
 
 
