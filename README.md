@@ -18,7 +18,7 @@
 
 - Power supply
 
-![enter image description here](https://github.com/youness-el-kabtane/Arduino-Servo-Control-whit-a-GUI-Interface/blob/main/image/image3.png?raw=true)
+![enter image description here]([https://github.com/youness-el-kabtane/Arduino-Servo-Control-whit-a-GUI-Interface/blob/main/image/image3.png?raw=true](https://github.com/youness-el-kabtane/Door-Status-Monitoring---Code/blob/75a9f304996ff4fc18b5c9a6a7422145fa964144/Screenshot.png)
 
 ## Principle of Operation
 
@@ -123,3 +123,4 @@ if (value == "1") sendAlertEmail();
 **Version:** 1.0.0
 
 **Made with 💗**
+
