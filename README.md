@@ -75,8 +75,6 @@ String url = webAppUrl + "?mode=write&distance=" + String(statusValue);
 
 ## Google Apps Script - Key Parts
 
-### **Key Parts**
-
 1. **Entry Point – `doGet(e)`**
 
 ```js
@@ -123,6 +121,7 @@ if (value == "1") sendAlertEmail();
 **Version:** 1.0.0
 
 **Made with 💗**
+
 
 
 
